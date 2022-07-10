@@ -1,0 +1,25 @@
+body {
+    margin-top: 60px;
+  }
+  .container{
+      background-color: aliceblue;
+      
+  }
+  .container1{
+      text-align: center;
+      background-color: grey;
+      padding-left: 40px;
+      align-items: center;
+      justify-content: center;
+  }
+ .timeline{
+     padding-left:15rem;
+     text-align:start;
+     align-items: center;
+ }
+ h1{
+     text-align: center;
+ }
+ .text-center{
+     text-align: center;
+ }
